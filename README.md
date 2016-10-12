@@ -5,8 +5,11 @@
 Table of Content
 
 1: Introduction
+
 2: VPN token: the approach to VPN token and conversion rate between VPN token and ether or bitcoin.
+
 3: VPN smart Contract: conditions, payment method, security, oracle, auditing, etc.
+
 4: Use Cases: personal uses case (for example, travel from USA to China), Business to Business use case (low cost site to site VPNs), more ambitious use case (established global peer to peer secure VPN network)
 
 
